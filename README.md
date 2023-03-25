@@ -11,7 +11,7 @@
         <audio src="МАМА - DXI feat AKBAROV.mp3" controls autoplay loop></audio>
      <h1>DXI feat AKBAROV МАМА</h1>
         <audio src="DXI - Otajon.mp3" controls autoplay loop></audio>
-    <h1>DXI OTAJON</h1> <video src="MVI_6272.MP4" controls height="200px" weight="200px"  poster="photo_2023-02-04_15-32-21.jpg" ></video>
+    <h1>DXI OTAJON</h1> <audio src="2_5251338551542423815.mp3" controls autoplay loop></audio>   <h1>DXI Человечек</h1> <video src="MVI_6272.MP4" controls height="200px" weight="200px"  poster="photo_2023-02-04_15-32-21.jpg" ></video>
     <h1>DXI feat AKBAROV концерт</h1>
 </body>
 </html>
